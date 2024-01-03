@@ -1,12 +1,3 @@
-# Assignment 0701: War and Random Nunmbers 
-
-# Name: Suraj Nihal, Pushyap
-# Date: 10/24/2023
-# Student ID: 2023345
-
-# Video Link: https://youtu.be/zLtvyScacw8
-
-# I have not given or received any unauthorized assistance on this assignment
 
 class WarAndPeacePseudoRandomNumberGenerator:
 
